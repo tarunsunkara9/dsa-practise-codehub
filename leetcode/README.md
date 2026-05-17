@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tarunsunkara9/dsa-practise-codehub/tree/master/LeetCode/0088-merge-sorted-array) |
+| [2892-check-if-array-is-good](https://github.com/tarunsunkara9/dsa-practise-codehub/tree/master/LeetCode/2892-check-if-array-is-good) |
 ## Two Pointers
 |  |
 | ------- |
@@ -13,4 +14,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tarunsunkara9/dsa-practise-codehub/tree/master/LeetCode/0088-merge-sorted-array) |
+| [2892-check-if-array-is-good](https://github.com/tarunsunkara9/dsa-practise-codehub/tree/master/LeetCode/2892-check-if-array-is-good) |
+## Hash Table
+|  |
+| ------- |
+| [2892-check-if-array-is-good](https://github.com/tarunsunkara9/dsa-practise-codehub/tree/master/LeetCode/2892-check-if-array-is-good) |
 <!---LeetCode Topics End-->
